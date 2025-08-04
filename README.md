@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**insufferable3/insufferable3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+These are a few projects I’ve worked on:
+
+- **EODB Platform**  
+  A one-stop assistant for startup approvals and government schemes in India, powered by AI and real-time tracking.
+
+- **Forest Fire Predictor**  
+  A machine learning model to predict forest fire severity based on environmental data.
+
+-  **Art Style Classifier**  
+  An AI project to classify artworks based on their artistic style using deep learning.
+
+-  **Art Showcase Website**  
+  A portfolio website to display my digital artwork and creative projects.
+
+
+
+
